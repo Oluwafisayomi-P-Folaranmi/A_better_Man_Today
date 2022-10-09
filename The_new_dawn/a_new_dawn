@@ -1,6 +1,9 @@
 #!/bin/bash
 # This is it mehn
 # This is the description of the script
+# This is life 
+# This is it
+# This is life 
 
 echo "Today is "$(date)
 cal  
