@@ -1,0 +1,5 @@
+#!/bin/bash
+# This is a script that prints the working 
+# directory
+
+pwd 
